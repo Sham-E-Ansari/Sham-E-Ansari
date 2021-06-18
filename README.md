@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Sham-E-Ansari/Sham-E-Ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Sham E Ansari  👋
+
+Former student of Computer Science and Engineering in Ahsanullah University of Science and Technology, Bangladesh. My aim is to be associated with an organization that provides career development opportunities as a Software Developer and an environment to enable me to contribute in its growth. Currently I'm working as a Junior Web Developer in a multi-national company named GraphicPeople. I'm a quick learner. I'm good at Database Design and Database management system and have a good knowledge about Android application development and Web development.
+
+- Solved over 200+ problems in online judge like Uri, UVa, Codeforces.
+- Knowledge of Machine Learning.
+- Achieved Gold badge in SQL and JS, Silver badge in problem solving in Hackerrank
+- Completed several online courses about JS, Android development, Data Science in Udemy, Coursera.
+- Have experience in participating android app hackathon and achieved 1st runner up position in BUP ICT FEST 2018.
+
